@@ -18,6 +18,11 @@ From the hook website "Hook is a restful, extendable backend as a service that p
 
 We haven't had a chance to test Hook yet but plan to very soon. It looks very promising and the fact that it is written is PHP, should make it easy to get setup on most any host or server. It has user authentication built right in and their Hooks features look really useful.
 
+#Parse Server
+Parse themselves released an open source version of the service making it easy for those of you who currently use Parse to migrate. From Parse: "The open source Parse Server makes it possible to serve the Parse API from any infrastructure that can host Node.js applications. Parse Server provides a way for you to keep your application running without major changes in the client-side code, once you have your data in your own database."
+
+If your app is currently running on Parse, using the open source Parse server might be your best option. 
+
 #HIRE US TO HELP SETUP YOUR OWN REST API SYSTEM
 Do you like the idea of rolling your own REST api system but need help getting started?
 [CONTACT US HERE](http://www.gosmartsolutions.com/#contact) and let us know what your needs are and we will get back to you quickly.
